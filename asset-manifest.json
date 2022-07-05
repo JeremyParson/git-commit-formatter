@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git-commit-formatter-site/static/css/main.6802de99.css",
+    "main.js": "/git-commit-formatter-site/static/js/main.43c05f8d.js",
+    "static/js/787.e2092086.chunk.js": "/git-commit-formatter-site/static/js/787.e2092086.chunk.js",
+    "index.html": "/git-commit-formatter-site/index.html",
+    "main.6802de99.css.map": "/git-commit-formatter-site/static/css/main.6802de99.css.map",
+    "main.43c05f8d.js.map": "/git-commit-formatter-site/static/js/main.43c05f8d.js.map",
+    "787.e2092086.chunk.js.map": "/git-commit-formatter-site/static/js/787.e2092086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6802de99.css",
+    "static/js/main.43c05f8d.js"
+  ]
+}
